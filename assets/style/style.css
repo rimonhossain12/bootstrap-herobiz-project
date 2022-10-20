@@ -44,7 +44,18 @@ img.vert-move {
 .herobiz_second_div:hover{
     color:#0EA2BD;
 }
+.card-style{
+    transition: 0.6s;
+}
+.card-style:hover{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transform: scale(1.1);
+}
 
-.youtube-btn :hover{
-     color:#0EA2BD;
+svg{
+    font-size: 20px;
+}
+
+.svg-style{
+    color: #0EA2BD;
 }
