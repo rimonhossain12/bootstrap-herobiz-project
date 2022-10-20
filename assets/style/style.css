@@ -46,6 +46,8 @@ img.vert-move {
 }
 .card-style{
     transition: 0.6s;
+    margin-bottom: 18px;
+    margin-right: 3px;
 }
 .card-style:hover{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -58,4 +60,11 @@ svg{
 
 .svg-style{
     color: #0EA2BD;
+}
+
+.button-style{
+    font-family: 18px;
+    font-weight: 400px;
+    font-family: 'Poppins', sans-serif;
+    color: #485664;
 }
