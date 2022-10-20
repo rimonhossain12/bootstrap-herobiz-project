@@ -28,3 +28,19 @@ img.vert-move {
     0% { transform: translateY(0); }
     100% { transform: translateY(-10px); }
 }
+
+.hero-main-text{
+    font-size: 30px;
+}
+
+.herobiz-color{
+    color:#0EA2BD;
+}
+
+.herobiz_second_div:hover{
+    color:#0EA2BD;
+}
+
+.youtube-btn :hover{
+     color:#0EA2BD;
+}
