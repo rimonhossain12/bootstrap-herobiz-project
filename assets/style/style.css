@@ -69,6 +69,18 @@ svg{
     color: #485664;
 }
 
+/* !question section start from here */
+.question_img{
+    height: 100%;
+    width: 100%;
+    background: url('../img/question_img.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* !question section ends from here */
+
 /* !footer section start from here */
 
 .footer_bg{
