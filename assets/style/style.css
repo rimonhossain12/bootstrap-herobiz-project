@@ -102,3 +102,136 @@ svg{
         object-fit: cover;
       }
 /* !swipe js css cod ends from here */
+
+/* !footer section start from here */
+.footer-bg{
+    background-color: #485664;
+}
+.footer_section_text{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.link_section {
+    text-align: left;
+    margin-left: 0;
+}
+
+.link_section ul {
+    text-align: left;
+}
+
+.link_section ul li {
+    list-style-type: none;
+    
+}
+
+.link_section ul li a{
+    text-decoration: none;
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+}
+
+.footer_heading {
+    margin-left: 20px;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+
+
+.footer-container{
+    background:#000000;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 0px !important;
+
+}
+.col h4{
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+}
+.menu-list {
+    text-align: left;
+    list-style: none;
+    color: white;
+}
+.menu-list li {
+   text-align: left;
+}
+.menu-list li a {
+    text-decoration: none;
+    line-height: 35px;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 1.5px;
+    color: gray;
+}
+.input{
+    text-align: left;
+    padding: 2px 2px;
+}
+.input h4{
+     font-family: 'Playfair Display', serif;
+}
+.input
+ input{
+    text-align: start;
+    padding: 3px 0px;
+    border: none;
+    border-radius:3px;
+    /* font-size: 12px; */
+    width: 75%;
+
+}
+.text-button{
+    display: inline-block;
+}
+.submit-btn{
+    display: inline-block;
+}
+.input-div p {
+    /* padding-top: 20px; */
+    text-align: start;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    color: #666666;
+    line-height: 26px;
+    margin-top: 20px;
+}
+
+.input-btn, .submit-btn {
+  font: inherit;
+}
+
+.email-form {
+  display: flex; 
+  grid-column: 2;
+}
+
+.input-btn {
+  flex-grow: 1;
+  padding: 0.5em 0.75em;
+}
+
+.submit-btn {
+  padding: 0.5em 0.75em;
+  background:#41a28e
+}
+
+
+
+
+
+@media screen and (max-width: 570px) {
+    .footer_heading {
+    margin-left: 0;
+    /* font-size: 14px;
+    text-transform: capitalize; */
+    }
+}
+
+
+/* !footer section ends from here */
